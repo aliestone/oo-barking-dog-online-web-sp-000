@@ -3,7 +3,7 @@ class Dog
 end
 
 def bark
-  puts "Woof!"
+  puts "woof!"
 end
 
 Dog.name = dogs_name
