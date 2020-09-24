@@ -6,6 +6,6 @@ def bark
   puts "woof!"
 end
 
-Dog.name = dogs_name
+self.name = dogs_name
 
 end
