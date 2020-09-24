@@ -5,7 +5,7 @@ def bark
     puts "woof!"
 end
 
-attr_reader :name, :age
-attr_writer :name, :age
+attr_reader :name
+attr_writer :name
 
 end
