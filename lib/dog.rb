@@ -7,5 +7,6 @@ def bark
 end
 
 self.name = dogs_name
+end
 
 end
